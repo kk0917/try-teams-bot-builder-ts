@@ -1,0 +1,16 @@
+#Project settings
+.env
+
+# Dependency directories
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# VS Code
+.history
